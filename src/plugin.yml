@@ -1,0 +1,12 @@
+name: LobbyControl
+main: com.lubek.lobbycontrol.lobbycontrol
+version: 1.1
+author: lubek
+api-version: 1.16
+commands:
+  reloadlc:
+    description: Removes world from blacklist
+    usage: /<command> <args>
+    permission: lc.rmworld
+    aliases:
+      - rlc

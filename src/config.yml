@@ -1,0 +1,22 @@
+
+#                                           bbbbbbbb
+#  LLLLLLLLLLL                              b::::::b                               kkkkkkkk
+#  L:::::::::L                              b::::::b                               k::::::k
+#  L:::::::::L                              b::::::b                               k::::::k
+#  LL:::::::LL                               b:::::b                               k::::::k
+#  L:::::L               uuuuuu    uuuuuu  b:::::bbbbbbbbb        eeeeeeeeeeee    k:::::k    kkkkkkk
+#  L:::::L               u::::u    u::::u  b::::::::::::::bb    ee::::::::::::ee  k:::::k   k:::::k
+#  L:::::L               u::::u    u::::u  b::::::::::::::::b  e::::::eeeee:::::eek:::::k  k:::::k
+#  L:::::L               u::::u    u::::u  b:::::bbbbb:::::::be::::::e     e:::::ek:::::k k:::::k
+#  L:::::L               u::::u    u::::u  b:::::b    b::::::be:::::::eeeee::::::ek::::::k:::::k
+#  L:::::L               u::::u    u::::u  b:::::b     b:::::be:::::::::::::::::e k:::::::::::k
+#  L:::::L               u::::u    u::::u  b:::::b     b:::::be::::::eeeeeeeeeee  k:::::::::::k
+#  L:::::L         LLLLLLu:::::uuuu:::::u  b:::::b     b:::::be:::::::e           k::::::k:::::k
+#  LL:::::::LLLLLLLLL:::::Lu:::::::::::::::uub:::::bbbbbb::::::be::::::::e         k::::::k k:::::k
+#  L::::::::::::::::::::::L u:::::::::::::::ub::::::::::::::::b  e::::::::eeeeeeee k::::::k  k:::::k
+#  L::::::::::::::::::::::L  uu::::::::uu:::ub:::::::::::::::b    ee:::::::::::::e k::::::k   k:::::k
+#  LLLLLLLLLLLLLLLLLLLLLLLL    uuuuuuuu  uuuubbbbbbbbbbbbbbbb       eeeeeeeeeeeeee kkkkkkkk    kkkkkkk
+Whitelist: ['EXAMPLE','EXAMPLE']
+Particles: True
+ScoreboardWorld: ['world','world']
+Debug: False
