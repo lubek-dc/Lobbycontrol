@@ -9,3 +9,11 @@ More Plugins Comming Soon!
 * Trampoline Jumps Counter!
 * ScoreBoard
 * ConfigFiles and Saves
+
+# Platforms
+
+This plugin works on:
+
+* Spigot
+* Paper
+* Bukkit
