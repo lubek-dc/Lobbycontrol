@@ -9,6 +9,7 @@ More Plugins Comming Soon!
 * Trampoline Jumps Counter!
 * ScoreBoard
 * ConfigFiles and Saves
+* Auto Install Libares (only you need is <a href = "https://www.oracle.com/pl/java/technologies/javase/javase-jdk8-downloads.html"> Java Se Development Kit 8 </a>)
 
 # Platforms
 
