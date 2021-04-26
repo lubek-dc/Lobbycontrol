@@ -1,8 +1,8 @@
 # Welcome!
 ### Lobby Control is a Minecraft Server Plugin to manage your lobby
-Versions:
+### Versions:
 * 1.16-1.16.5
-Features:
+### Features:
 * Core of Plugins:
 <a href = "https://github.com/lubek-dc/Sanbox"> Sandbox Plugin </a>
 More Plugins Comming Soon!
