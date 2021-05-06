@@ -14,7 +14,7 @@ More Plugins Comming Soon!
 
 # Platforms
 
-This plugin works on:
+This plugin works on :)
 
 * Spigot
 * Paper
